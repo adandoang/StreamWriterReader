@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ioFile", "ioFile\ioFile.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IoFileWithPath", "IoFileWithPath\IoFileWithPath.vcxproj", "{E32A8CFE-CC66-4B6C-A2D4-D07B2B569152}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "manualExeption", "manualExeption\manualExeption.vcxproj", "{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{E32A8CFE-CC66-4B6C-A2D4-D07B2B569152}.Release|x64.Build.0 = Release|x64
 		{E32A8CFE-CC66-4B6C-A2D4-D07B2B569152}.Release|x86.ActiveCfg = Release|Win32
 		{E32A8CFE-CC66-4B6C-A2D4-D07B2B569152}.Release|x86.Build.0 = Release|Win32
+		{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}.Debug|x64.ActiveCfg = Debug|x64
+		{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}.Debug|x64.Build.0 = Debug|x64
+		{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}.Debug|x86.Build.0 = Debug|Win32
+		{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}.Release|x64.ActiveCfg = Release|x64
+		{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}.Release|x64.Build.0 = Release|x64
+		{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}.Release|x86.ActiveCfg = Release|Win32
+		{E3FCB608-CC2E-40AF-BBC2-A6B738C5765C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
